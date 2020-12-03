@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SongPlayer</string>
+    <string name="no_song_selected">(No song selected)</string>
+    <string name="volume">Volume: 5</string>
+</resources>
